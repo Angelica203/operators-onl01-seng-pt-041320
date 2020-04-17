@@ -7,8 +7,6 @@ else
 
 end
 
-puts unsafe(50)
-
 # puts unsafe?(50)
 
 # puts not_safe?(speed)
