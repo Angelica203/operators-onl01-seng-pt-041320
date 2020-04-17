@@ -4,7 +4,8 @@ def unsafe?(speed)
 else 
     false
  end
-puts not_safe?(50)
+ 
+ 
 end
 
 # puts unsafe?(50)
