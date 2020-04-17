@@ -3,7 +3,7 @@ def unsafe?(speed)
     true
 else 
     false
-puts     
+puts #not_safe?    
  end
  
  
